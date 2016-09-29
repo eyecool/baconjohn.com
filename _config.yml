@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "John Bacon"
-  avatar           : "john-bacon-profile.jpg"
+  avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
   email            :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : eyecool
   google_plus      :
   keybase          :
   instagram        :
